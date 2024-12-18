@@ -3,9 +3,9 @@ from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
 
 # Email credentials
-sender_email = "oppi8386@gmail.com"
-receiver_email = "oppilan.iniyan@gmail.com"
-password = "txjl qbkp ttua duie"  # Use an app password if 2FA is enabled.
+sender_email = "yourname@domain.com"
+receiver_email = "reciever@domain.com"
+password = "password"  # Use an app password if 2FA is enabled.
 
 # Email content
 subject = "Test Email"
